@@ -2,7 +2,7 @@
 This section will provide you the necessary resources to grasp basic russian knowledge that will help you in your first days in Innopolis and around.
 
 ### Resources
-#### 1. [Russian for everyone](http://www.russianforeveryone.com/)
+### 1. [Russian for everyone](http://www.russianforeveryone.com/)
 - [Russian Alphabet](http://www.russianforeveryone.com/RufeA/Lessons/Introduction/Alphabet/Alphabet.htm)
 - [Greetings and Goodbye](http://www.russianforeveryone.com/Rufe/Lessons/Course1/Phrasebook/Topic1_Greetings/Topic1.htm)
 - [At the airport](http://www.russianforeveryone.com/Rufe/Lessons/Course1/Phrasebook/Topic8_AtTheAirport/Topic8.htm)
