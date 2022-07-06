@@ -20,6 +20,7 @@ This section will provide you the necessary resources to grasp basic russian kno
 - [Russian Alphabet](http://www.russianforeveryone.com/RufeA/Lessons/Introduction/Alphabet/Alphabet.htm)
 - [Greetings and Goodbye](http://www.russianforeveryone.com/Rufe/Lessons/Course1/Phrasebook/Topic1_Greetings/Topic1.htm)
 - [At the airport](http://www.russianforeveryone.com/Rufe/Lessons/Course1/Phrasebook/Topic8_AtTheAirport/Topic8.htm)
+- Your first [100 basic building words](https://russianenthusiast.com/russian-vocab/top-100-must-know-russian-words/)
 
 ### 2. Dialogue
 - [Russian for free](https://www.russianforfree.com/dialogues.php)
