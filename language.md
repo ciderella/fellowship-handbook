@@ -1,11 +1,36 @@
 # Language
-This section will provide you the necessary resources to grasp basic russian knowledge that will help you in your first days in Innopolis and around.
+
+
+### Disclaimer 🚨💣
+
+If this is your first time traveling to Russia, you will definitely experience that linguistic phase shift once you get off the plane. You will mainly notice the difference in the alphabet (you probably already know this), but also, there is a 0.01% chance that you meet someone who speaks your native language.
+
+**So, the most important tool you need to have before landing is the offline version of the Translate application(Google or Yandex). By experience, I personnaly recommend Yandex Translate because it offers more accuracy translating from russian and vice-versa.**
+It will not just help you at the airport, but also in your first months before you grasp some russian knowledge.
+
+It is better to have realistic expectations about learning Russian. That will save you a lot of time and avoid confusion. Give [this](https://web.archive.org/web/20191130195821/https://www.reddit.com/r/russian/comments/bzqz08/the_russian_learning_journey_tips_truths_myths/)  a read first.
+
+### General Tips From Polyglots
+- If you can connect emotionally with the language, you will have a better experience learning, finding your way.
+- Consume your favorite media in the target language. Get into interesting content ASAP, listen to content with transcripts; listening, and reading, go together.
+- Make sure you understand before you memorize.
+- Frequency beats intensity: It is better to do little often than alot at once.
+- Do it when you feel most comfortable, like in the beginning of the day. Have a dedicated learning time.
+- Invest some time in finding 3, 4 resources you like the most but focus on 1 resource at a time. Don't fall into the trap of monkey branching to another resource when it gets challenging.
+- Keep a record of your personal thoughts, feelings, insights, and more in the other language and get someone to correct your mistakes.
+- Learn how to say a lot with few words. Do sentence mining, focus on sentences patterns first.
+- Get a tutor: Having a tutor is one of the best options. If you can't find a tutor try pimsleur, [language transfer](https://www.languagetransfer.org/free-courses-1), [Glosika](https://ai.glossika.com/), [Michelle Thomas Russian](https://www.michelthomas.com/learn-russian/), [Assimil](https://www.assimil.com/en/), [FSI language course](https://www.fsi-language-courses.org/),... and many more. You can torrent most of the resources here from the piratebay or rutracker 🤫
+- It always begins with the syntax. Then a mastering of the semantic and finally the expressions.
+- It will take at least a year. So take your time and don't rush.
 
 ### Resources
-#### 1. [Russian for everyone](http://www.russianforeveryone.com/)
+This section will provide you the necessary resources to grasp the basic russian knowledge that will help you in your first days in Innopolis and beyond.
+
+### 1. Your first 100 words in Russian
 - [Russian Alphabet](http://www.russianforeveryone.com/RufeA/Lessons/Introduction/Alphabet/Alphabet.htm)
 - [Greetings and Goodbye](http://www.russianforeveryone.com/Rufe/Lessons/Course1/Phrasebook/Topic1_Greetings/Topic1.htm)
 - [At the airport](http://www.russianforeveryone.com/Rufe/Lessons/Course1/Phrasebook/Topic8_AtTheAirport/Topic8.htm)
+- Your first [100 basic building words](https://russianenthusiast.com/russian-vocab/top-100-must-know-russian-words/)
 
 ### 2. Dialogue
 - [Russian for free](https://www.russianforfree.com/dialogues.php)
