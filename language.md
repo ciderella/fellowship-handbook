@@ -1,17 +1,23 @@
 # Language
-It's best that we have realistc expectation about learning Russian, that will save us lots of time and avoid confusion give [this](https://web.archive.org/web/20191130195821/https://www.reddit.com/r/russian/comments/bzqz08/the_russian_learning_journey_tips_truths_myths/)  a read first.
+If this is your first time traveling to Russia, you will definitely experience that linguistic phase shift once you get off the plane. You will mainly notice the difference in the alphabet (you probably already know this), but also, there is a 0.01% chance that you meet someone who speaks your native language.
+
+The most important tool you need to have before landing is the **offline** version of the Translate application (Google or Yandex), it will be your best friend for a few months.Yandex Translate offers more accuracy translating from russian and vice-versa
+
+It is better to have realistic expectations about learning Russian. That will save you a lot of time and avoid confusion. Give [this](https://web.archive.org/web/20191130195821/https://www.reddit.com/r/russian/comments/bzqz08/the_russian_learning_journey_tips_truths_myths/) a read first.
 
 ### General Tips From Polyglots
-- If you connect connect emotionally with the language you will have a better time learning, find your why
-- Consume your favorite media in target language. Get into interesting contents ASAP, listens to contents with transcripts, listens and reading go together. Make sure you understand before you memory, understanding is addictive
+- If you can connect emotionally with the language, you will have a better experience learning, find your "why"
+- Consume your favorite media in target language. Get into interesting contents ASAP, listens to contents with transcripts, listens and reading go together.
+- Make sure you understand before you memory, understanding is addictive
 - Frequency beats intensity, better to do little often than alot at once
-- Do it when you feel most fresh, like in the beginning of the day. Have a dedicated learning time
-- Invest some time in finding 3, 4 resources you like the best but focus on 1 resources at a time. Don't fall into the trap of monkey branching to another resource when it gets challenging
-- Journalling in the other language and get a tutor to correct your reading
-- Learn how to say a lot with a little languages, do sentence mining, focus on sentences partterns first
-- Get a tutor, having tutors are the best, if you can't find a tutor try pimsleur, [language transfer](https://www.languagetransfer.org/free-courses-1), Glosika, **Michelle Thomas Russian**, Assimil, FSI language course,... and many more, you can torrent most of the resources here from the piratebay or rutracker
-- Start with the syntax then to sematic then to expression
-- It will take at least a year
+- Do it when your mind feel most fresh, in the beginning of the day for example. Have a dedicated learning time
+- Invest some time in finding 3, 4 resources you like but focus on one resource at a time. Don't fall into the trap of switching to another resource when one gets challenging
+- Keep a record of your personal thoughts, feelings, insights, and more in the other language and get someone to correct your mistakes.
+- Journalling in the other language and get a tutor to correct your pronunciation
+- Learn how to say a lot with few words. Do sentence mining, focus on sentences patterns first.
+	- Get a tutor: Having a tutor is one of the best options. If you can't find a tutor try pimsleur, [language transfer](https://www.languagetransfer.org/free-courses-1), [Glosika](https://ai.glossika.com/), [Michelle Thomas Russian](https://www.michelthomas.com/learn-russian/), [Assimil](https://www.assimil.com/en/), [FSI language course](https://www.fsi-language-courses.org/),... and many more. You can torrent most of the resources here from the piratebay or rutracker 🤫	
+- Begin with the syntax. Then a mastering of the semantic and finally the expressions.	
+- It will take at least a year. So take your time and don't rush.
 
 ### Resources
 This section will provide you the necessary resources to grasp basic russian knowledge that will help you in your first days in Innopolis and beyond.
