@@ -1,5 +1,11 @@
-Transportation 
+# Transportation 
 
+## TODO
+- [ ] For transportation around Innopolis, you can book Inno bus from innoCommute application. This mini bus goes to different areas in Innopolis. - is there such a bus?
+- [ ] add about self-driving taxi
+- [ ] add about how to get to cities near Kazan and around Russia - by train/plane. add how you can book train/plane tickets
+
+## ...
 - You can order a taxi from these mobile applications: Yandex, DiDi, Uber Russia. 
 - It is recommended to install Yandex translate, Yandex maps, 2GIS.
 - Transportation from Innopolis to Kazan using bus No.108:
