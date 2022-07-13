@@ -1,11 +1,13 @@
 # Language
-If this is your first time traveling to Russia, you will definitely experience that linguistic phase shift once you get off the plane. You will mainly notice the difference in the alphabet (you probably already know this), but also, there is a 0.01% chance that you meet someone who speaks your native language.
+Eventhough you can get by without learning Russian in the university, you will miss out a lot if you don't. There are very few people outside of Innopolis that can converse in English fluently and the nubmer of people that can converse in your native languages is even fewer. Further more, most of the talks and seminars given in the university will be in Russian. Learning Russian will make travelling less of a hassle, and who knows, maybe even to make friends with a few locals
 
-The most important tool you need to have before landing is the **offline** version of the Translate application (Google or Yandex), it will be your best friend for a few months.Yandex Translate offers more accuracy translating from russian and vice-versa
+The most important tool you need to have before landing is the **offline** version of the Translate application (Google or Yandex), it will be your best friend for a few months. Yandex Translate offers more accuracy translating from russian and vice-versa
 
 It is better to have realistic expectations about learning Russian. That will save you a lot of time and avoid confusion. Give [this](https://web.archive.org/web/20191130195821/https://www.reddit.com/r/russian/comments/bzqz08/the_russian_learning_journey_tips_truths_myths/) a read first.
 
 ### General Tips From Polyglots
+- Focus on speaking first, grammar comes easier once you know how to speak
+  - Avoid the trap of spending too much time on learning grammar and vocabulary then ended up having little speaking skill like [this guy](https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french) 
 - If you can connect emotionally with the language, you will have a better experience learning, find your "why"
 - Consume your favorite media in target language. Get into interesting contents ASAP, listens to contents with transcripts, listens and reading go together.
 - Make sure you understand before you memory, understanding is addictive
@@ -14,8 +16,8 @@ It is better to have realistic expectations about learning Russian. That will sa
 - Invest some time in finding 3, 4 resources you like but focus on one resource at a time. Don't fall into the trap of switching to another resource when one gets challenging
 - Keep a record of your personal thoughts, feelings, insights, and more in the other language and get someone to correct your mistakes.
 - Journalling in the other language and get a tutor to correct your pronunciation
-- Learn how to say a lot with few words. Do sentence mining, focus on sentences patterns first.
-	- Get a tutor: Having a tutor is one of the best options. If you can't find a tutor try pimsleur, [language transfer](https://www.languagetransfer.org/free-courses-1), [Glosika](https://ai.glossika.com/), [Michelle Thomas Russian](https://www.michelthomas.com/learn-russian/), [Assimil](https://www.assimil.com/en/), [FSI language course](https://www.fsi-language-courses.org/),... and many more. You can torrent most of the resources here from the piratebay or rutracker 🤫	
+- Learn how to say a lot with a few words. Do sentence mining, focus on sentences patterns first.
+- Get a tutor: Having a tutor is one of the best options. If you can't find a tutor try pimsleur, [language transfer](https://www.languagetransfer.org/free-courses-1), [Glosika](https://ai.glossika.com/), [Michelle Thomas Russian](https://www.michelthomas.com/learn-russian/), [Assimil](https://www.assimil.com/en/), [FSI language course](https://www.fsi-language-courses.org/),... and many more. You can torrent most of the resources here from the piratebay or rutracker 🤫	
 - Begin with the syntax. Then a mastering of the semantic and finally the expressions.	
 - It will take at least a year. So take your time and don't rush.
 
@@ -34,7 +36,7 @@ This section will provide you the necessary resources to grasp basic russian kno
 - ...
 
 ### 3. Daily Practice Applications
-- [Duolingo]()
+- [Duolingo](https://www.duolingo.com/)
   - [Android](https://play.google.com/store/apps/details?hl=en&id=com.duolingo&referrer=utm_source%3Dduolingo.com%26utm_medium%3Dduolingo_web%26utm_content%3Ddownload_button%26utm_campaign%3Dsplash)
   - [iOS](https://itunes.apple.com/app/duolingo-learn-spanish-french/id570060128?mt=8)
 
