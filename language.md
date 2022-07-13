@@ -6,8 +6,8 @@ The most important tool you need to have before landing is the **offline** versi
 It is better to have realistic expectations about learning Russian. That will save you a lot of time and avoid confusion. Give [this](https://web.archive.org/web/20191130195821/https://www.reddit.com/r/russian/comments/bzqz08/the_russian_learning_journey_tips_truths_myths/) a read first.
 
 ### General Tips From Polyglots
-- Focus on speaking first, grammar comes easier once you know how to speak
-  - Avoid the trap of spending too much time on learning grammar and vocabulary then ended up having little speaking skill like [this guy](https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french) 
+- Focus on speaking first, grammar comes easier once you know how to speak, they are important but not in the beginning, in the beginning you'll need "just enough" grammar
+  - Avoid the trap of spending too much time on learning grammar and vocabulary then ended up having little speaking skill like [this guy](https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french)
 - If you can connect emotionally with the language, you will have a better experience learning, find your "why"
 - Consume your favorite media in target language. Get into interesting contents ASAP, listens to contents with transcripts, listens and reading go together.
 - Make sure you understand before you memory, understanding is addictive
