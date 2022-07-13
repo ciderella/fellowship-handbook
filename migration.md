@@ -2,6 +2,11 @@
 
 :partying_face:	**Yay!**  you have received your visa. Now there are some points below you should take into consideration. These points will make your journey smoother.
 
+## TODO
+- [ ] add what they need to do when they arrive - make registration - mention what is registration and why you need it, go to Veronika with the documents. 
+- [ ] add about when to renew your visa and registration
+
+
 ## Some interesting points 
 
 + Check your passport and visa. Make sure there is no spelling mistake on your visa.
