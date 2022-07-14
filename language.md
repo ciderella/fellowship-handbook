@@ -1,5 +1,5 @@
 # Language
-Even though you can get by without learning Russian in the university, you will miss out a lot if you don't. There are very few people outside of Innopolis that can converse in English fluently, and the number of people that can converse in your native languages is even fewer. Furthermore, most of the talks and seminars given in the university will be in Russian. Learning Russian will make travelling less of a hassle, and who knows, maybe even to make friends with a few locals.
+Even though you can get by without learning Russian in the university, you will miss out a lot if you don't. There are very few people outside of Innopolis that can converse in English fluently, and the number of people that can converse in your native languages is even fewer. Learning Russian will make travelling less of a hassle, and who knows, maybe even to make friends with a few locals.
 
 The most important tool you need to have before landing is the **offline** version of the Translate application (Google or Yandex), it will be your best friend for a few months. Yandex Translate offers more accuracy translating from russian and vice-versa.
 
