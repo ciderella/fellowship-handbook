@@ -29,4 +29,6 @@ There might be updates on the schedule, so please register in Innopolis HelpBot 
 - If you have an international driving license, you can register in the car sharing service from these apps: Delimobile, Yandex drive.
 - If you do not have an international driving license. You can also translate an notarize your home country driving license and then you can register in Delimobile application. Translation and notarization of the car license will cost around 1000 rubles. 
 
-- For transportation around Innopolis, you can book Inno bus from innoCommute application. This mini bus goes to different areas in Innopolis. 
+- For transportation around Innopolis, you can book Inno bus from innoCommute application. This mini bus goes to different areas in Innopolis. Below are the city bus stops:
+![photo_2022-07-14_17-35-28](https://user-images.githubusercontent.com/90580636/179008606-7f509018-505d-4bbb-9d9b-81a4080b7e83.jpg)
+![photo_2022-07-13_19-58-16](https://user-images.githubusercontent.com/90580636/179008618-68b491dd-666b-46c2-b30a-31c0afae8096.jpg)
