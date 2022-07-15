@@ -27,6 +27,12 @@ Relevant information about delays and cancellations of shuttles is published on 
 There might be updates on the schedule, so please register in Innopolis HelpBot service on telegram for the most updated bus schedule. 
 
 - If you have an international driving license, you can register in the car sharing service from these apps: Delimobile, Yandex drive.
-- If you do not have an international driving license. You can also translate an notarize your home country driving license and then you can register in Delimobile application. Translation and notarization of the car license will cost around 1000 rubles. 
+- If you do not have an international driving license. You can also translate and notarize your home country driving license and then you can register in Delimobile application. Translation and notarization of the car license will cost around 1000 rubles. 
+
+- If you want to travel around Russia, you can book train via [Russian Trains](https://www.russiantrains.com/en/route/train-kazan-moscow)
+  You can also book flights via [Aeroflot](https://www.aeroflot.ru/ru-en), [S7 Airlines](https://www.s7.ru/ru/), [Rossiya Airlines](https://www.rossiya-airlines.com/en/)
+  [Saint Petersburg](https://en.wikipedia.org/wiki/Saint_Petersburg) is a wonderful city, it can be one of your destinations.
+- You can also order a self-driving taxi, you first should register in the service by writing to the @InnopolisHelp 
+![image](https://user-images.githubusercontent.com/90580636/179014746-41094a16-5094-4f16-a59a-2dffc6aa8895.png)
 
 - For transportation around Innopolis, you can book Inno bus from innoCommute application. This mini bus goes to different areas in Innopolis. 
