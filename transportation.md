@@ -35,4 +35,6 @@ There might be updates on the schedule, so please register in Innopolis HelpBot 
 - You can also order a self-driving taxi, you first should register in the service by writing to the @InnopolisHelp 
 ![image](https://user-images.githubusercontent.com/90580636/179014746-41094a16-5094-4f16-a59a-2dffc6aa8895.png)
 
-- For transportation around Innopolis, you can book Inno bus from innoCommute application. This mini bus goes to different areas in Innopolis. 
+- For transportation around Innopolis, you can book Inno bus from innoCommute application. This mini bus goes to different areas in Innopolis. Below are the city bus stops:
+![photo_2022-07-14_17-35-28](https://user-images.githubusercontent.com/90580636/179008606-7f509018-505d-4bbb-9d9b-81a4080b7e83.jpg)
+![photo_2022-07-13_19-58-16](https://user-images.githubusercontent.com/90580636/179008618-68b491dd-666b-46c2-b30a-31c0afae8096.jpg)
