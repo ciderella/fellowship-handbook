@@ -6,36 +6,35 @@ The most important tool you need to have before landing is the **offline** versi
 It is better to have realistic expectations about learning Russian. That will save you a lot of time and avoid confusion. Give [this](https://web.archive.org/web/20191130195821/https://www.reddit.com/r/russian/comments/bzqz08/the_russian_learning_journey_tips_truths_myths/) a read first.
 
 ### General Tips From Polyglots
-- Focus on speaking first, grammar comes easier once you know how to speak, they are important but not in the beginning, in the beginning you'll need "just enough" grammar.
-- Avoid the trap of spending too much time on learning grammar and vocabulary then ended up having little speaking skill like [this guy](https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french)
-- If you can connect emotionally with the language, you will have a better experience learning, find your "why"
-- Consume your favorite media in target language. Get into interesting contents ASAP, listens to contents with transcripts, listens and reading go together.
-- Make sure you understand before you memory, understanding is addictive
-- Frequency beats intensity, better to do little often than alot at once
-- Do it when your mind feel most fresh, in the beginning of the day for example. Have a dedicated learning time
-- Invest some time in finding 3, 4 resources you like but focus on one resource at a time. Don't fall into the trap of switching to another resource when one gets challenging
+- Focus on speaking first, grammar comes easier once you know how to speak. It is important but not in the beginning.
+- Avoid the trap of spending too much time on learning grammar and vocabulary, then ending up having little speaking skills like [this guy](https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french).
+- If you can connect emotionally with the language, you will have a better experience learning.
+- Consume your favorite media in the target language. Get into interesting content ASAP, listen to content with transcripts. Listening and reading go together.
+- Make sure you understand before you memorize, understanding is addictive.
+- Frequency beats intensity: It is better to do little often than a lot at once.
+- Do it when your feel the most comfortable, like in the beginning of the day for example. Have a dedicated learning time.
+- Invest some time in finding 3 or 4 resources you like the most but focus on one resource at once. Don't fall into the trap of monkey branching to another resource when it gets challenging.
 - Keep a record of your personal thoughts, feelings, insights, and more in the other language and get someone to correct your mistakes.
-- Journalling in the other language and get a tutor to correct your pronunciation
 - Learn how to say a lot with a few words. Do sentence mining, focus on sentences patterns first.
-- Get a tutor: Having a tutor is one of the best options. If you can't find a tutor try pimsleur, [language transfer](https://www.languagetransfer.org/free-courses-1), [Glosika](https://ai.glossika.com/), [Michelle Thomas Russian](https://www.michelthomas.com/learn-russian/), [Assimil](https://www.assimil.com/en/), [FSI language course](https://www.fsi-language-courses.org/),... and many more. You can torrent most of the resources here from the piratebay or rutracker 🤫	
+- Get a tutor: Having a tutor is one of the best options. If you can't find a tutor try [pimsleur](https://www.pimsleur.com/learn-english-for-russian-speakers), [language transfer](https://www.languagetransfer.org/free-courses-1), [Glosika](https://ai.glossika.com/), [Michelle Thomas Russian](https://www.michelthomas.com/learn-russian/), [Assimil](https://www.assimil.com/en/), [FSI language course](https://www.fsi-language-courses.org/),... and many more. You can torrent most of the resources here from the piratebay or rutracker 🤫	
 - Begin with the syntax. Then a mastering of the semantic and finally the expressions.	
 - It will take at least a year. So take your time and don't rush.
 
 ### Resources
 This section will provide you the necessary resources to grasp basic russian knowledge that will help you in your first days in Innopolis and beyond.
 
-### 1. [Russian for everyone](http://www.russianforeveryone.com/)
+### 1. Your first 100 words in Russian 🔠🅾🔢
 - [Russian Alphabet](http://www.russianforeveryone.com/RufeA/Lessons/Introduction/Alphabet/Alphabet.htm)
 - [Greetings and Goodbye](http://www.russianforeveryone.com/Rufe/Lessons/Course1/Phrasebook/Topic1_Greetings/Topic1.htm)
 - [At the airport](http://www.russianforeveryone.com/Rufe/Lessons/Course1/Phrasebook/Topic8_AtTheAirport/Topic8.htm)
 - Your first [100 basic building words](https://russianenthusiast.com/russian-vocab/top-100-must-know-russian-words/)
 
-### 2. Dialogue
+### 2. Dialogue 💬
 - [Russian for free](https://www.russianforfree.com/dialogues.php)
 - [Pimsleur Russian lesson 1](https://www.youtube.com/watch?v=JSSoKyEzv8w)
 - ...
 
-### 3. Daily Practice Applications
+### 3. Daily Practice Applications ⌚
 - [Duolingo](https://www.duolingo.com/)
   - [Android](https://play.google.com/store/apps/details?hl=en&id=com.duolingo&referrer=utm_source%3Dduolingo.com%26utm_medium%3Dduolingo_web%26utm_content%3Ddownload_button%26utm_campaign%3Dsplash)
   - [iOS](https://itunes.apple.com/app/duolingo-learn-spanish-french/id570060128?mt=8)
@@ -44,7 +43,7 @@ This section will provide you the necessary resources to grasp basic russian kno
   - [iOS](https://apps.apple.com/app/memrise-easy-language-learning/id635966718)
   - [Android](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
 
-### 4. Language Exchange Communities
+### 4. Language Exchange Communities 🗨
 - [HelloTalk](https://www.hellotalk.com/#en) - Highly recommended 😉
   - [Android](https://brc.hellotalk.com/g8dCnHq41hb?~tags=mweb)
   - [iOS](https://brc.hellotalk.com/g8dCnHq41hb?~tags=mweb)
@@ -56,3 +55,5 @@ This section will provide you the necessary resources to grasp basic russian kno
 - [HiNative](https://hinative.com/en-US)
   - [iOS](https://apps.apple.com/app/apple-store/id923920480)
   - [Android](https://play.google.com/store/apps/details?id=com.lang8.hinative&referrer=utm_source%3Dtop_index_pc)
+
+___
