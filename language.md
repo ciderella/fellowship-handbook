@@ -1,27 +1,27 @@
 # Language
-Even though you can get by without learning Russian in the university, you will miss out a lot if you don't. There are very few people outside of Innopolis that can converse in English fluently, and the number of people that can converse in your native languages is even fewer. Learning Russian will make travelling less of a hassle, and who knows, maybe even to make friends with a few locals.
+Even though you can get by without learning Russian at the university, you will miss out a lot if you don't. There are very few people outside of Innopolis that can converse in English fluently, and the number of people that can converse in your native languages is even fewer. Learning Russian will make travelling less of a hassle, and who knows, maybe even make friends with a few locals.
 
-The most important tool you need to have before landing is the **offline** version of the Translate application (Google or Yandex), it will be your best friend for a few months. Yandex Translate offers more accuracy translating from russian and vice-versa.
+The most important tool you need to have before landing is the **offline** version of the Translate application (Google or Yandex), it will be your best friend for a few months. Yandex Translate offers more accuracy in translating from Russian and vice-versa.
 
-It is better to have realistic expectations about learning Russian. That will save you a lot of time and avoid confusion. Give [this](https://web.archive.org/web/20191130195821/https://www.reddit.com/r/russian/comments/bzqz08/the_russian_learning_journey_tips_truths_myths/) a read first.
+It is better to have realistic expectations about learning Russian. That will save you a lot of time and avoid confusion. Give [this](https://web.archive.org/web/20191130195821/https://www.reddit.com/r/russian/comments/bzqz08/the_russian_learning_journey_tips_truths_myths/) a read first. I know a few people who can converse in Russian after 6 months of self-studying
 
-### General Tips From Polyglots
-- Focus on speaking first, grammar comes easier once you know how to speak. It is important but not in the beginning.
+### General Tips From Polyglots from Innopolis University
+- Focus on speaking first, grammar comes easier once you know how to speak. Grammar is important but not in the beginning. If you practice speaking and have decent pronunciation, people won't mind if you made a few grammatical mistakes, after all, they will understand that you are speaking another language. 
 - Avoid the trap of spending too much time on learning grammar and vocabulary, then ending up having little speaking skills like [this guy](https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french).
 - If you can connect emotionally with the language, you will have a better experience learning.
-- Consume your favorite media in the target language. Get into interesting content ASAP, listen to content with transcripts. Listening and reading go together.
-- Make sure you understand before you memorize, understanding is addictive.
-- Frequency beats intensity: It is better to do little often than a lot at once.
-- Do it when your feel the most comfortable, like in the beginning of the day for example. Have a dedicated learning time.
-- Invest some time in finding 3 or 4 resources you like the most but focus on one resource at once. Don't fall into the trap of monkey branching to another resource when it gets challenging.
-- Keep a record of your personal thoughts, feelings, insights, and more in the other language and get someone to correct your mistakes.
-- Learn how to say a lot with a few words. Do sentence mining, focus on sentences patterns first.
-- Get a tutor: Having a tutor is one of the best options. If you can't find a tutor try [pimsleur](https://www.pimsleur.com/learn-english-for-russian-speakers), [language transfer](https://www.languagetransfer.org/free-courses-1), [Glosika](https://ai.glossika.com/), [Michelle Thomas Russian](https://www.michelthomas.com/learn-russian/), [Assimil](https://www.assimil.com/en/), [FSI language course](https://www.fsi-language-courses.org/),... and many more. You can torrent most of the resources here from the piratebay or rutracker 🤫	
-- Begin with the syntax. Then a mastering of the semantic and finally the expressions.	
+- Consume your favourite media (movies, podcasts, ...) in the Russian language. Get into interesting content ASAP, and listen to content with transcripts. Listening and reading go together.
+- Make sure you understand before you memorize, understanding is addictive. Paraphrasing Michelle Thomas once said: "What you understand, you don't forget"
+- Frequency beats intensity: It is better to do a little often than a lot at once. For example, 30 minutes a day is better than 3 hours at the weekend. Have a dedicated learning time.
+- Do it when your mind feels the freshest, like at the beginning of the day for example.
+- Invest some time in finding 3 or 4 resources you like the most but focus on one resource at once. Don't fall into the trap of monkey branching to another resource when one gets challenging.
+- Keep a record of your thoughts, feelings, insights, and more in the other language and get someone to correct your mistakes.
+- Learn how to say a lot with a few words. Do sentence mining, and focus on sentence patterns first.
+- Get a tutor: Having a tutor is one of the best options. If you can't find a tutor try [pimsleur](https://www.pimsleur.com/learn-english-for-russian-speakers), [language transfer](https://www.languagetransfer.org/free-courses-1), [Glosika](https://ai.glossika.com/), [Michelle Thomas Russian](https://www.michelthomas.com/learn-russian/), [Assimil](https://www.assimil.com/en/), [FSI language course](https://www.fsi-language-courses.org/),... and many more. You can torrent most of the resources here from the pirate bay or rutracker 🤫 
+- Begin with the syntax. Then a mastering of the semantics and finally the expressions.  
 - It will take at least a year. So take your time and don't rush.
 
 ### Resources
-This section will provide you the necessary resources to grasp basic russian knowledge that will help you in your first days in Innopolis and beyond.
+This section will provide you with the necessary resources to grasp basic Russian knowledge that will help you in your first days in Innopolis and beyond.
 
 ### 1. Your first 100 words in Russian 🔠🅾🔢
 - [Russian Alphabet](http://www.russianforeveryone.com/RufeA/Lessons/Introduction/Alphabet/Alphabet.htm)
