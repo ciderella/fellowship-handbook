@@ -1,8 +1,4 @@
-# Food
-
-You can find most of the spices in Kazan's malls like Mega Mall, Kol'tso, Park House, for more "exotic" spices you can go to Новая тура рынок
-
-## Options
+## Food options
 You have 3 possible options for having food:
 - University canteens
 - Restaurants inside the University and in the city
@@ -22,3 +18,7 @@ You can have robots deliver your food to your dormitory for most of the restaura
 - Пиццерия Cacio e vino - Italian foods
 - Гастробистро "Месса\Ересь" - Salads, desserts, main meals
 - Big Boss & шаурма & стрит фуд - Shawarmas, coffee, wraps
+
+## Spices
+
+You can find most of the spices in Kazan's malls like Mega Mall, Kol'tso, Park House, for more "exotic" spices you can go to Новая тура рынок
